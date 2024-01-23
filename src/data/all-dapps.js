@@ -53,6 +53,12 @@ const categories =  [
                 icon: './images/dapps/yearn.finance.png'
             },
             {
+                name: 'ATM Connect',
+                url: 'https://atm.network/',
+                description: 'Autonomous Trust Momentum is a meta-community based on the new concept of relative consensus connection.',
+                icon: 'https://atm.network/img/icon.274d4b46.png'
+            },
+            {
                 name: 'Aave',
                 url: 'https://aave.com/',
                 description: 'An open-source, non-custodial protocol enabling the creation of money markets',

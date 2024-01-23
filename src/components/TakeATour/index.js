@@ -29,11 +29,11 @@ export default class TakeATour extends Component {
                     onClick={this.showTutorial}
                 >
                     <img src={logo} className={'take-a-tour-logo'} alt={'MetaMask logo'}/>
-                    <div className={'take-a-tour-content'}>
+                     <div className={'take-a-tour-content'}>
                         <h3>Take a tour</h3>
                         <p>Our new mobile app gives you the control to access the new decentralized web</p>
                         
-                    </div>
+                    </div> 
                 </a>
                 <button 
                     className={'take-a-tour-close'}

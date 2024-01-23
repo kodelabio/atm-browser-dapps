@@ -21,8 +21,8 @@
 .header .logo-img{
     background-color: transparent;
     position: absolute;
-    height: 66px;
-    width: 102px;
+    height: 200px;
+    width: 200px;
     z-index: 999999999;
     align-self: center;
     justify-content: center;
