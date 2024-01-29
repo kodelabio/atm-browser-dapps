@@ -8,7 +8,7 @@ export default class Header extends Component {
         return (
             <div className={'header'}>
                 <img src={LogoWordmark}  className={'header logo-img'} alt={'background'} />
-                {/* <img src={BgImage}  className={'header bg-img'} alt={'background'} /> */}
+                <img src={BgImage}  className={'header bg-img'} alt={'background'} />
             </div>
         );
     }
